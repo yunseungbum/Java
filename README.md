@@ -1,3 +1,6 @@
-LV.0
-![자바 등차,등비수열](https://github.com/user-attachments/assets/bd7505be-c8d2-47a6-958d-73f539ebf6a1)
+split() : 특정 문자를 자를때 사용할 수 있는 메서드
+String rsp = {052};
+ex) String[] arr = rsp.split("");
+출력: 052
+ 
 
