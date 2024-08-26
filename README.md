@@ -13,5 +13,6 @@ int number = numbers[i];
 -> for(int number: numbers{
 }
 
+ Integer.parseInt(); 괄호안에 있는 문자열를 숫자로 변환
 
 
