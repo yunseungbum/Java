@@ -17,3 +17,5 @@ int number = numbers[i];
 
 Math.sqrt(변수) -> 변수의 제곱근을 구함
 
+toCharArray() : String 문자열을 char형 배열로 바꿔서 반환해주는 메서드이다.
+
