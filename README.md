@@ -15,4 +15,5 @@ int number = numbers[i];
 
  Integer.parseInt(); 괄호안에 있는 문자열를 숫자로 변환
 
+Math.sqrt(변수) -> 변수의 제곱근을 구함
 
