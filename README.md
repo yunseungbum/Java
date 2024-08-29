@@ -19,3 +19,5 @@ Math.sqrt(변수) -> 변수의 제곱근을 구함
 
 toCharArray() : String 문자열을 char형 배열로 바꿔서 반환해주는 메서드이다.
 
+substring(x) : x의 값부터 그 뒤의 문자열 반환 
+substring(x,y): x의 위치부터 y까지 문자열 반환
