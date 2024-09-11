@@ -26,6 +26,7 @@ import java.util.Scanner;
 
 public class Array3 {
 	public static void main(String[] args) {
+		System.out.println("숫자를 입력하세요");
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
 		int[][] arr = new int[num][num];
