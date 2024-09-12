@@ -24,3 +24,6 @@ toCharArray() : String 문자열을 char형 배열로 바꿔서 반환해주는 
 substring(x) : x의 값부터 그 뒤의 문자열 반환 
 substring(x,y): x의 위치부터 y까지 문자열 반환
 
+char[] 변수명 = 문자열변수.toCharArray(); :문자열을 문자배열로 변환
+-import java.util.Arrays; 필수
+
